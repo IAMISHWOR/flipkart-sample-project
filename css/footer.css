@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;         
+}
+footer{
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: black;
+    height: 9vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
